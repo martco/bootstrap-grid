@@ -1,11 +1,11 @@
 {
   "name": "bootstrap-grid",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "authors": [
     "Martin Cortez <cortezmc@amazon.com>"
   ],
   "description": "Just the Grid component from Twitter Bootstrap",
-  "main": "bootstrap-grid.css",
+  "main": "bootstrap.css",
   "license": "MIT",
   "private": true,
   "ignore": [
